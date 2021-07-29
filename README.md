@@ -1,8 +1,8 @@
-# Flow test with javascript
+# Flow Cadence test with javascript
 
 *inspired by flow-js-testing*
 
-Using Jest and fcl define a test scaffold for Javascript developer.
+Using Jest and fcl to test your cadence contract with Javascript.
 
 ## Quick start
 
